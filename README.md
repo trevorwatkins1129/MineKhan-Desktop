@@ -7,3 +7,5 @@ Run `setup.py` to initialize stuff
 Run `app.py` to launch the launcher
 ### Step 3:
 Click `Play!` to play MineKhan
+
+Yeah it's really bad lol
